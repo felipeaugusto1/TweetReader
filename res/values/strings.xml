@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tweet Reader</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- user_choose_activity -->
+    <string name="edNomeUsuario">Digite o nome do usuário</string>
+    <string name="btnShowTweetsByUser">Mostrar Tweets</string>
+    
+    <!-- splash_screen_activity -->
+    <string name="txtNameApp">TweetReader</string>
+    <string name="imageView1_contentDescription">logo</string>
+    
+    <!-- tweets_list -->
+    <string name="txtCarregandoTweets">Carregando tweets&#8230;</string>
+    
+</resources>
